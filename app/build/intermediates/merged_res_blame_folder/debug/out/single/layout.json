@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-mergeDebugResources-32:/layout/activity_view_event.xml",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/activity_view_event.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-mergeDebugResources-32:/layout/fragment_places.xml",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/fragment_places.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-mergeDebugResources-32:/layout/fragment_settings.xml",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-mergeDebugResources-32:/layout/calendar_cell.xml",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/calendar_cell.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-mergeDebugResources-32:/layout/activity_view_place.xml",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/activity_view_place.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-mergeDebugResources-32:/layout/fragment_calendar.xml",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/fragment_calendar.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-mergeDebugResources-32:/layout/activity_view_list.xml",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/activity_view_list.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-mergeDebugResources-32:/layout/activity_add_event.xml",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/activity_add_event.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-mergeDebugResources-32:/layout/event_cell.xml",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/event_cell.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-mergeDebugResources-32:/layout/fragment_lists.xml",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/fragment_lists.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-mergeDebugResources-32:/layout/place_cell.xml",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/place_cell.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-mergeDebugResources-32:/layout/activity_add_place.xml",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/activity_add_place.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-mergeDebugResources-32:/layout/list_cell.xml",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/list_cell.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-mergeDebugResources-32:/layout/activity_login.xml",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-mergeDebugResources-32:/layout/activity_change_credentials.xml",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/activity_change_credentials.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-mergeDebugResources-32:/layout/activity_add_list.xml",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/activity_add_list.xml"
+    }
+]

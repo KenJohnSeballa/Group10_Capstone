@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.graphhopper:graphhopper-core:stable" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.graphhopper" artifactId="graphhopper-core" version="stable" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.graphhopper/graphhopper-core/stable/8a72397b5cb8bf5826af41040ffb584c6d529aac/graphhopper-core-stable.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

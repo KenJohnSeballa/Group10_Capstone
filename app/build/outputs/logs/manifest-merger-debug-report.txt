@@ -1,0 +1,404 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:2:1-70:12
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\sebal\.gradle\caches\transforms-3\6e1da9345dc15dce5ba74f851a2eef3d\transformed\jetified-viewbinding-7.4.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\sebal\.gradle\caches\transforms-3\49dd37bf10937f4a5031c2e2032cd3be\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\sebal\.gradle\caches\transforms-3\8abb2981fa1669d088dbba154bf5f14b\transformed\constraintlayout-2.1.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\sebal\.gradle\caches\transforms-3\0c68e630a0eebe0618fa7365154c1513\transformed\appcompat-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\sebal\.gradle\caches\transforms-3\0b39f8b869c286deda11415b1f91fe6e\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.MKergall:osmbonuspack:6.4] C:\Users\sebal\.gradle\caches\transforms-3\d1fcef645bd4e5f330e0c9ae83965575\transformed\jetified-osmbonuspack-6.4\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\44d66019629001601723e3e8e6792438\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\0ee68bfbd682d7e290626937651372ad\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\sebal\.gradle\caches\transforms-3\de00681d1b149848a0dab915e4ae741a\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\sebal\.gradle\caches\transforms-3\dc6e45a05ba0ba292a5f1fdfe12d8a38\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] C:\Users\sebal\.gradle\caches\transforms-3\f99405aaa40b5e71777f19e40d0ffd18\transformed\jetified-appcompat-resources-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\5eff1425e4617f572a315b3a04b185a4\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\f967ef6252e4ec79b8a489b7b97a4a74\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\6bec4ad2de4a4e1abb07218201764f94\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\sebal\.gradle\caches\transforms-3\8255cf8f73e0ec2d884b3aa8102e6cd4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\c49cd9f9e70a62c0cfb6a9c057db283b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\sebal\.gradle\caches\transforms-3\cf7ed2c7db25c1ed83dad3026c9a2688\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sebal\.gradle\caches\transforms-3\5d6dbb7a2526cb46a310f1fa772a8328\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sebal\.gradle\caches\transforms-3\c17573ade799759c56baf884a28f8de6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\abedd8388bdbd55803e370bace33339f\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\bf2a6d46c92d2b1b015ce44f75d834ab\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\064f6efcf72e45025c96c41bb0313fb3\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\f4e7914e58ba093567760f9d22f3626d\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\sebal\.gradle\caches\transforms-3\722cfa06d51a32340f337ac9798393bf\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\bb581f0f45aa35f890c6008351162320\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\62c5e7261b28a421717026579decefb0\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\788b2866ce1062b2ae316790421045ad\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\dc51215a0ae0eec1cc8d2679f7af5fd0\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\sebal\.gradle\caches\transforms-3\0212d0c0c0b99c5d00c15a82a811f4d1\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\2365384ad980976d11b4bd9d48d00571\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\sebal\.gradle\caches\transforms-3\4045a3f95de86f969cc169ef412c5055\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\sebal\.gradle\caches\transforms-3\6cb7b19c21de687d9940d58729e3fbe3\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\1f624a3ec658e1a90eb17b72d8f4e5aa\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] C:\Users\sebal\.gradle\caches\transforms-3\f0b4a4906a097535fbd17b32f437177d\transformed\jetified-lifecycle-viewmodel-ktx-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] C:\Users\sebal\.gradle\caches\transforms-3\47ef84098775c224ee1950a94655ca15\transformed\lifecycle-viewmodel-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sebal\.gradle\caches\transforms-3\4b621581b14be943fef7e9025808a5ef\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sebal\.gradle\caches\transforms-3\6a6f6c114c9c9b951c8ef2f12d93c2dd\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\fe495c415716c065e5c6bb7738defcbc\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\6eaf261807bfdfb11a3a18692cc26456\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] C:\Users\sebal\.gradle\caches\transforms-3\61cf61a5f8ea2ec1358cc0818d55a4b5\transformed\jetified-lifecycle-livedata-ktx-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] C:\Users\sebal\.gradle\caches\transforms-3\9a43b0adca6de3e7bd61ac0d079ed063\transformed\lifecycle-livedata-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] C:\Users\sebal\.gradle\caches\transforms-3\58fa98065683b51f637540977293d48f\transformed\jetified-lifecycle-livedata-core-ktx-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.1] C:\Users\sebal\.gradle\caches\transforms-3\7eb6f880aa29247e72d6edc81b09e67a\transformed\lifecycle-livedata-core-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\sebal\.gradle\caches\transforms-3\59f01a343cb99689ebb12bfa3381e696\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\sebal\.gradle\caches\transforms-3\94c1e08774be1a91ac7aa4bf2cb72cb3\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\dc95db927df936e003ea23f2b843af5c\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\4a128805ae54552b7183634231e39ff5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\ae4109ec1e873f2074e4c3a60211a759\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\fe726d578f90e61f945e51ad06a99ee0\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.osmdroid:osmdroid-mapsforge:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\15745033f1278fdd26510a77bc543ea7\transformed\jetified-osmdroid-mapsforge-6.1.7\AndroidManifest.xml:2:1-12:12
+MERGED from [org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\sebal\.gradle\caches\transforms-3\3e1991dda6c66b9f0750b6708f7555ea\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:2:1-70:12
+	package
+		INJECTED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:2:1-70:12
+		INJECTED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:2:1-70:12
+		INJECTED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:2:1-70:12
+		INJECTED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:4:5-60:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\sebal\.gradle\caches\transforms-3\49dd37bf10937f4a5031c2e2032cd3be\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\sebal\.gradle\caches\transforms-3\49dd37bf10937f4a5031c2e2032cd3be\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\sebal\.gradle\caches\transforms-3\8abb2981fa1669d088dbba154bf5f14b\transformed\constraintlayout-2.1.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\sebal\.gradle\caches\transforms-3\8abb2981fa1669d088dbba154bf5f14b\transformed\constraintlayout-2.1.2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.MKergall:osmbonuspack:6.4] C:\Users\sebal\.gradle\caches\transforms-3\d1fcef645bd4e5f330e0c9ae83965575\transformed\jetified-osmbonuspack-6.4\AndroidManifest.xml:11:5-20
+MERGED from [com.github.MKergall:osmbonuspack:6.4] C:\Users\sebal\.gradle\caches\transforms-3\d1fcef645bd4e5f330e0c9ae83965575\transformed\jetified-osmbonuspack-6.4\AndroidManifest.xml:11:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\sebal\.gradle\caches\transforms-3\0212d0c0c0b99c5d00c15a82a811f4d1\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\sebal\.gradle\caches\transforms-3\0212d0c0c0b99c5d00c15a82a811f4d1\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sebal\.gradle\caches\transforms-3\4b621581b14be943fef7e9025808a5ef\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sebal\.gradle\caches\transforms-3\4b621581b14be943fef7e9025808a5ef\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sebal\.gradle\caches\transforms-3\6a6f6c114c9c9b951c8ef2f12d93c2dd\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sebal\.gradle\caches\transforms-3\6a6f6c114c9c9b951c8ef2f12d93c2dd\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\fe495c415716c065e5c6bb7738defcbc\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\fe495c415716c065e5c6bb7738defcbc\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\sebal\.gradle\caches\transforms-3\0212d0c0c0b99c5d00c15a82a811f4d1\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:10:9-50
+activity#com.gk.koumpyol.dailyplanner.ChangeCredentialsActivity
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:11:9-13:40
+	android:exported
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:12:13-54
+activity#com.gk.koumpyol.dailyplanner.LoginActivity
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:14:9-21:20
+	android:exported
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:15:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.gk.koumpyol.dailyplanner.ViewListActivity
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:23:13-45
+activity#com.gk.koumpyol.dailyplanner.ViewPlaceActivity
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:26:13-46
+activity#com.gk.koumpyol.dailyplanner.ViewEventActivity
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:28:9-30:40
+	android:exported
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:29:13-46
+activity#com.gk.koumpyol.dailyplanner.AddEventActivity
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:31:9-33:40
+	android:exported
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:32:13-45
+activity#com.gk.koumpyol.dailyplanner.AddPlaceActivity
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:34:9-36:40
+	android:exported
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:35:13-45
+activity#com.gk.koumpyol.dailyplanner.AddListActivity
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:37:9-39:40
+	android:exported
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:38:13-44
+activity#com.gk.koumpyol.dailyplanner.MainActivity
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:40:9-42:39
+	android:exported
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:42:13-36
+	android:name
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:41:13-41
+receiver#com.gk.koumpyol.dailyplanner.NotificationReceiver
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:44:9-51:20
+	android:enabled
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:47:13-36
+	android:name
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:45:13-49
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:48:13-50:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:49:17-79
+	android:name
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:49:25-76
+receiver#com.gk.koumpyol.dailyplanner.ReminderReceiver
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:52:9-59:20
+	android:enabled
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:54:13-35
+	android:exported
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:55:13-36
+	android:name
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:53:13-45
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:61:5-79
+	android:name
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:61:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:62:5-67
+	android:name
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:62:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:63:5-66
+	android:name
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:63:22-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:64:5-79
+	android:name
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:64:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:65:5-81
+	android:name
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:65:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:66:5-80
+	android:name
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:66:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:67:5-81
+	android:name
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:67:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:68:5-81
+	android:name
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:68:22-78
+uses-sdk
+INJECTED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\sebal\.gradle\caches\transforms-3\6e1da9345dc15dce5ba74f851a2eef3d\transformed\jetified-viewbinding-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\sebal\.gradle\caches\transforms-3\6e1da9345dc15dce5ba74f851a2eef3d\transformed\jetified-viewbinding-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\sebal\.gradle\caches\transforms-3\49dd37bf10937f4a5031c2e2032cd3be\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\sebal\.gradle\caches\transforms-3\49dd37bf10937f4a5031c2e2032cd3be\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\sebal\.gradle\caches\transforms-3\8abb2981fa1669d088dbba154bf5f14b\transformed\constraintlayout-2.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\sebal\.gradle\caches\transforms-3\8abb2981fa1669d088dbba154bf5f14b\transformed\constraintlayout-2.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\sebal\.gradle\caches\transforms-3\0c68e630a0eebe0618fa7365154c1513\transformed\appcompat-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\sebal\.gradle\caches\transforms-3\0c68e630a0eebe0618fa7365154c1513\transformed\appcompat-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\sebal\.gradle\caches\transforms-3\0b39f8b869c286deda11415b1f91fe6e\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\sebal\.gradle\caches\transforms-3\0b39f8b869c286deda11415b1f91fe6e\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.MKergall:osmbonuspack:6.4] C:\Users\sebal\.gradle\caches\transforms-3\d1fcef645bd4e5f330e0c9ae83965575\transformed\jetified-osmbonuspack-6.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.MKergall:osmbonuspack:6.4] C:\Users\sebal\.gradle\caches\transforms-3\d1fcef645bd4e5f330e0c9ae83965575\transformed\jetified-osmbonuspack-6.4\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\44d66019629001601723e3e8e6792438\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\44d66019629001601723e3e8e6792438\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\0ee68bfbd682d7e290626937651372ad\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\0ee68bfbd682d7e290626937651372ad\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\sebal\.gradle\caches\transforms-3\de00681d1b149848a0dab915e4ae741a\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\sebal\.gradle\caches\transforms-3\de00681d1b149848a0dab915e4ae741a\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\sebal\.gradle\caches\transforms-3\dc6e45a05ba0ba292a5f1fdfe12d8a38\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\sebal\.gradle\caches\transforms-3\dc6e45a05ba0ba292a5f1fdfe12d8a38\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] C:\Users\sebal\.gradle\caches\transforms-3\f99405aaa40b5e71777f19e40d0ffd18\transformed\jetified-appcompat-resources-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] C:\Users\sebal\.gradle\caches\transforms-3\f99405aaa40b5e71777f19e40d0ffd18\transformed\jetified-appcompat-resources-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\5eff1425e4617f572a315b3a04b185a4\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\5eff1425e4617f572a315b3a04b185a4\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\f967ef6252e4ec79b8a489b7b97a4a74\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\f967ef6252e4ec79b8a489b7b97a4a74\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\6bec4ad2de4a4e1abb07218201764f94\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\6bec4ad2de4a4e1abb07218201764f94\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\sebal\.gradle\caches\transforms-3\8255cf8f73e0ec2d884b3aa8102e6cd4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\sebal\.gradle\caches\transforms-3\8255cf8f73e0ec2d884b3aa8102e6cd4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\c49cd9f9e70a62c0cfb6a9c057db283b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\c49cd9f9e70a62c0cfb6a9c057db283b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\sebal\.gradle\caches\transforms-3\cf7ed2c7db25c1ed83dad3026c9a2688\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\sebal\.gradle\caches\transforms-3\cf7ed2c7db25c1ed83dad3026c9a2688\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sebal\.gradle\caches\transforms-3\5d6dbb7a2526cb46a310f1fa772a8328\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sebal\.gradle\caches\transforms-3\5d6dbb7a2526cb46a310f1fa772a8328\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sebal\.gradle\caches\transforms-3\c17573ade799759c56baf884a28f8de6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sebal\.gradle\caches\transforms-3\c17573ade799759c56baf884a28f8de6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\abedd8388bdbd55803e370bace33339f\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\abedd8388bdbd55803e370bace33339f\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\bf2a6d46c92d2b1b015ce44f75d834ab\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\bf2a6d46c92d2b1b015ce44f75d834ab\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\064f6efcf72e45025c96c41bb0313fb3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\064f6efcf72e45025c96c41bb0313fb3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\f4e7914e58ba093567760f9d22f3626d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\f4e7914e58ba093567760f9d22f3626d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\sebal\.gradle\caches\transforms-3\722cfa06d51a32340f337ac9798393bf\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\sebal\.gradle\caches\transforms-3\722cfa06d51a32340f337ac9798393bf\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\bb581f0f45aa35f890c6008351162320\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\bb581f0f45aa35f890c6008351162320\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\62c5e7261b28a421717026579decefb0\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\62c5e7261b28a421717026579decefb0\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\788b2866ce1062b2ae316790421045ad\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\788b2866ce1062b2ae316790421045ad\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\dc51215a0ae0eec1cc8d2679f7af5fd0\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\dc51215a0ae0eec1cc8d2679f7af5fd0\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] C:\Users\sebal\.gradle\caches\transforms-3\0212d0c0c0b99c5d00c15a82a811f4d1\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\sebal\.gradle\caches\transforms-3\0212d0c0c0b99c5d00c15a82a811f4d1\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\2365384ad980976d11b4bd9d48d00571\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\2365384ad980976d11b4bd9d48d00571\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\sebal\.gradle\caches\transforms-3\4045a3f95de86f969cc169ef412c5055\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\sebal\.gradle\caches\transforms-3\4045a3f95de86f969cc169ef412c5055\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\sebal\.gradle\caches\transforms-3\6cb7b19c21de687d9940d58729e3fbe3\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\sebal\.gradle\caches\transforms-3\6cb7b19c21de687d9940d58729e3fbe3\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\1f624a3ec658e1a90eb17b72d8f4e5aa\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\1f624a3ec658e1a90eb17b72d8f4e5aa\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] C:\Users\sebal\.gradle\caches\transforms-3\f0b4a4906a097535fbd17b32f437177d\transformed\jetified-lifecycle-viewmodel-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] C:\Users\sebal\.gradle\caches\transforms-3\f0b4a4906a097535fbd17b32f437177d\transformed\jetified-lifecycle-viewmodel-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] C:\Users\sebal\.gradle\caches\transforms-3\47ef84098775c224ee1950a94655ca15\transformed\lifecycle-viewmodel-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] C:\Users\sebal\.gradle\caches\transforms-3\47ef84098775c224ee1950a94655ca15\transformed\lifecycle-viewmodel-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sebal\.gradle\caches\transforms-3\4b621581b14be943fef7e9025808a5ef\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sebal\.gradle\caches\transforms-3\4b621581b14be943fef7e9025808a5ef\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sebal\.gradle\caches\transforms-3\6a6f6c114c9c9b951c8ef2f12d93c2dd\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sebal\.gradle\caches\transforms-3\6a6f6c114c9c9b951c8ef2f12d93c2dd\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\fe495c415716c065e5c6bb7738defcbc\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\fe495c415716c065e5c6bb7738defcbc\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\6eaf261807bfdfb11a3a18692cc26456\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\6eaf261807bfdfb11a3a18692cc26456\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] C:\Users\sebal\.gradle\caches\transforms-3\61cf61a5f8ea2ec1358cc0818d55a4b5\transformed\jetified-lifecycle-livedata-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] C:\Users\sebal\.gradle\caches\transforms-3\61cf61a5f8ea2ec1358cc0818d55a4b5\transformed\jetified-lifecycle-livedata-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] C:\Users\sebal\.gradle\caches\transforms-3\9a43b0adca6de3e7bd61ac0d079ed063\transformed\lifecycle-livedata-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] C:\Users\sebal\.gradle\caches\transforms-3\9a43b0adca6de3e7bd61ac0d079ed063\transformed\lifecycle-livedata-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] C:\Users\sebal\.gradle\caches\transforms-3\58fa98065683b51f637540977293d48f\transformed\jetified-lifecycle-livedata-core-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] C:\Users\sebal\.gradle\caches\transforms-3\58fa98065683b51f637540977293d48f\transformed\jetified-lifecycle-livedata-core-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.1] C:\Users\sebal\.gradle\caches\transforms-3\7eb6f880aa29247e72d6edc81b09e67a\transformed\lifecycle-livedata-core-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.1] C:\Users\sebal\.gradle\caches\transforms-3\7eb6f880aa29247e72d6edc81b09e67a\transformed\lifecycle-livedata-core-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\sebal\.gradle\caches\transforms-3\59f01a343cb99689ebb12bfa3381e696\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\sebal\.gradle\caches\transforms-3\59f01a343cb99689ebb12bfa3381e696\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\sebal\.gradle\caches\transforms-3\94c1e08774be1a91ac7aa4bf2cb72cb3\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\sebal\.gradle\caches\transforms-3\94c1e08774be1a91ac7aa4bf2cb72cb3\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\dc95db927df936e003ea23f2b843af5c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\dc95db927df936e003ea23f2b843af5c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\4a128805ae54552b7183634231e39ff5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\4a128805ae54552b7183634231e39ff5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\ae4109ec1e873f2074e4c3a60211a759\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\ae4109ec1e873f2074e4c3a60211a759\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\fe726d578f90e61f945e51ad06a99ee0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\fe726d578f90e61f945e51ad06a99ee0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [org.osmdroid:osmdroid-mapsforge:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\15745033f1278fdd26510a77bc543ea7\transformed\jetified-osmdroid-mapsforge-6.1.7\AndroidManifest.xml:8:5-10:41
+MERGED from [org.osmdroid:osmdroid-mapsforge:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\15745033f1278fdd26510a77bc543ea7\transformed\jetified-osmdroid-mapsforge-6.1.7\AndroidManifest.xml:8:5-10:41
+MERGED from [org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:7:5-9:41
+MERGED from [org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\sebal\.gradle\caches\transforms-3\3e1991dda6c66b9f0750b6708f7555ea\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\sebal\.gradle\caches\transforms-3\3e1991dda6c66b9f0750b6708f7555ea\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sebal\.gradle\caches\transforms-3\6a6f6c114c9c9b951c8ef2f12d93c2dd\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sebal\.gradle\caches\transforms-3\6a6f6c114c9c9b951c8ef2f12d93c2dd\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\fe495c415716c065e5c6bb7738defcbc\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\fe495c415716c065e5c6bb7738defcbc\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sebal\.gradle\caches\transforms-3\6a6f6c114c9c9b951c8ef2f12d93c2dd\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sebal\.gradle\caches\transforms-3\6a6f6c114c9c9b951c8ef2f12d93c2dd\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sebal\.gradle\caches\transforms-3\6a6f6c114c9c9b951c8ef2f12d93c2dd\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+supports-screens
+ADDED from [org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:11:5-14:40
+	android:largeScreens
+		ADDED from [org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:13:9-36
+	android:normalScreens
+		ADDED from [org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:14:9-37
+	android:anyDensity
+		ADDED from [org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:12:9-34
+uses-feature#android.hardware.location.network
+ADDED from [org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:17:9-57
+uses-feature#android.hardware.location.gps
+ADDED from [org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:20:9-53
+uses-feature#android.hardware.telephony
+ADDED from [org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:23:9-50
+uses-feature#android.hardware.wifi
+ADDED from [org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:26:9-45

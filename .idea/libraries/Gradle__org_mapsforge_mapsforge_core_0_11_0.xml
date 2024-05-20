@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.mapsforge:mapsforge-core:0.11.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.mapsforge" artifactId="mapsforge-core" version="0.11.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mapsforge/mapsforge-core/0.11.0/8b8b1595cd5fe7c67f8a7509e94114af11891a59/mapsforge-core-0.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

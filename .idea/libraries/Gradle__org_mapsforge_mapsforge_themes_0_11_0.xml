@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.mapsforge:mapsforge-themes:0.11.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.mapsforge" artifactId="mapsforge-themes" version="0.11.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mapsforge/mapsforge-themes/0.11.0/22f672092e0565aa2b82a6945bd11aefcc2041f8/mapsforge-themes-0.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

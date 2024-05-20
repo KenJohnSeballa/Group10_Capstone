@@ -1,0 +1,211 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.gk.koumpyol.dailyplanner"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:61:5-79
+11-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:61:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:62:5-67
+12-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:62:22-64
+13    <uses-permission android:name="android.permission.VIBRATE" />
+13-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:63:5-66
+13-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:63:22-63
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:64:5-79
+14-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:64:22-76
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:65:5-81
+15-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:65:22-78
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:66:5-80
+16-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:66:22-77
+17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+17-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:67:5-81
+17-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:67:22-78
+18    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+18-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:68:5-81
+18-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:68:22-78
+19
+20    <supports-screens
+20-->[org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:11:5-14:40
+21        android:anyDensity="true"
+21-->[org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:12:9-34
+22        android:largeScreens="true"
+22-->[org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:13:9-36
+23        android:normalScreens="true" />
+23-->[org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:14:9-37
+24
+25    <uses-feature
+25-->[org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:16:5-18:36
+26        android:name="android.hardware.location.network"
+26-->[org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:17:9-57
+27        android:required="false" />
+27-->[org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:18:9-33
+28    <uses-feature
+28-->[org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:19:5-21:36
+29        android:name="android.hardware.location.gps"
+29-->[org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:20:9-53
+30        android:required="false" />
+30-->[org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:21:9-33
+31    <uses-feature
+31-->[org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:22:5-24:36
+32        android:name="android.hardware.telephony"
+32-->[org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:23:9-50
+33        android:required="false" />
+33-->[org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:24:9-33
+34    <uses-feature
+34-->[org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:25:5-27:36
+35        android:name="android.hardware.wifi"
+35-->[org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:26:9-45
+36        android:required="false" />
+36-->[org.osmdroid:osmdroid-android:6.1.7] C:\Users\sebal\.gradle\caches\transforms-3\21afc43b1a38524263a4bf72523e8b18\transformed\jetified-osmdroid-android-6.1.7\AndroidManifest.xml:27:9-33
+37
+38    <application
+38-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:4:5-60:19
+39        android:allowBackup="true"
+39-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:5:9-35
+40        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+40-->[androidx.core:core:1.7.0] C:\Users\sebal\.gradle\caches\transforms-3\0212d0c0c0b99c5d00c15a82a811f4d1\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+41        android:debuggable="true"
+42        android:extractNativeLibs="false"
+43        android:icon="@mipmap/ic_launcher"
+43-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:6:9-43
+44        android:label="@string/app_name"
+44-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:7:9-41
+45        android:roundIcon="@mipmap/ic_launcher_round"
+45-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:8:9-54
+46        android:supportsRtl="true"
+46-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:9:9-35
+47        android:testOnly="true"
+48        android:theme="@style/Theme.DailyPlanner" >
+48-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:10:9-50
+49        <activity
+49-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:11:9-13:40
+50            android:name="com.gk.koumpyol.dailyplanner.ChangeCredentialsActivity"
+50-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:12:13-54
+51            android:exported="false" />
+51-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:13:13-37
+52        <activity
+52-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:14:9-21:20
+53            android:name="com.gk.koumpyol.dailyplanner.LoginActivity"
+53-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:15:13-42
+54            android:exported="true" >
+54-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:16:13-36
+55            <intent-filter>
+55-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:17:13-20:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:18:17-69
+56-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:18:25-66
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:19:17-77
+58-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:19:27-74
+59            </intent-filter>
+60        </activity>
+61        <activity
+61-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:22:9-24:40
+62            android:name="com.gk.koumpyol.dailyplanner.ViewListActivity"
+62-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:23:13-45
+63            android:exported="false" />
+63-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:24:13-37
+64        <activity
+64-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:25:9-27:40
+65            android:name="com.gk.koumpyol.dailyplanner.ViewPlaceActivity"
+65-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:26:13-46
+66            android:exported="false" />
+66-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:27:13-37
+67        <activity
+67-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:28:9-30:40
+68            android:name="com.gk.koumpyol.dailyplanner.ViewEventActivity"
+68-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:29:13-46
+69            android:exported="false" />
+69-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:30:13-37
+70        <activity
+70-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:31:9-33:40
+71            android:name="com.gk.koumpyol.dailyplanner.AddEventActivity"
+71-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:32:13-45
+72            android:exported="false" />
+72-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:33:13-37
+73        <activity
+73-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:34:9-36:40
+74            android:name="com.gk.koumpyol.dailyplanner.AddPlaceActivity"
+74-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:35:13-45
+75            android:exported="false" />
+75-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:36:13-37
+76        <activity
+76-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:37:9-39:40
+77            android:name="com.gk.koumpyol.dailyplanner.AddListActivity"
+77-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:38:13-44
+78            android:exported="false" />
+78-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:39:13-37
+79        <activity
+79-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:40:9-42:39
+80            android:name="com.gk.koumpyol.dailyplanner.MainActivity"
+80-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:41:13-41
+81            android:exported="true" />
+81-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:42:13-36
+82
+83        <receiver
+83-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:44:9-51:20
+84            android:name="com.gk.koumpyol.dailyplanner.NotificationReceiver"
+84-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:45:13-49
+85            android:enabled="true"
+85-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:46:13-35
+86            android:exported="true" >
+86-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:47:13-36
+87            <intent-filter>
+87-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:48:13-50:29
+88                <action android:name="android.intent.action.BOOT_COMPLETED" />
+88-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:49:17-79
+88-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:49:25-76
+89            </intent-filter>
+90        </receiver>
+91        <receiver
+91-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:52:9-59:20
+92            android:name="com.gk.koumpyol.dailyplanner.ReminderReceiver"
+92-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:53:13-45
+93            android:enabled="true"
+93-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:54:13-35
+94            android:exported="true" >
+94-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:55:13-36
+95            <intent-filter>
+95-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:48:13-50:29
+96                <action android:name="android.intent.action.BOOT_COMPLETED" />
+96-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:49:17-79
+96-->C:\Users\sebal\AndroidStudioProjects\NekoPlanner\app\src\main\AndroidManifest.xml:49:25-76
+97            </intent-filter>
+98        </receiver>
+99
+100        <provider
+100-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+101            android:name="androidx.startup.InitializationProvider"
+101-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+102            android:authorities="com.gk.koumpyol.dailyplanner.androidx-startup"
+102-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+103            android:exported="false" >
+103-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+104            <meta-data
+104-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+105                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+105-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+106                android:value="androidx.startup" />
+106-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sebal\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+107            <meta-data
+107-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sebal\.gradle\caches\transforms-3\6a6f6c114c9c9b951c8ef2f12d93c2dd\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+108                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+108-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sebal\.gradle\caches\transforms-3\6a6f6c114c9c9b951c8ef2f12d93c2dd\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+109                android:value="androidx.startup" />
+109-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sebal\.gradle\caches\transforms-3\6a6f6c114c9c9b951c8ef2f12d93c2dd\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+110        </provider>
+111    </application>
+112
+113</manifest>

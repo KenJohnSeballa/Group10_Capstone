@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.graphhopper:graphhopper-api:stable" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.graphhopper" artifactId="graphhopper-api" version="stable" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.graphhopper/graphhopper-api/stable/1d87520e58fdfb380a1acb2007170c1a87a5a016/graphhopper-api-stable.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

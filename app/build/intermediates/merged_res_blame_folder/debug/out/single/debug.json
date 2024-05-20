@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/layout_calendar_cell.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/calendar_cell.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/layout_activity_add_list.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/activity_add_list.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/drawable_ic_baseline_settings_24.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/drawable/ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/drawable_ic_baseline_notes_24.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/drawable/ic_baseline_notes_24.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/drawable_baseline_delete_24.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/drawable/baseline_delete_24.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/layout_list_cell.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/list_cell.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/drawable_ic_baseline_calendar_today_24.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/drawable/ic_baseline_calendar_today_24.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/drawable_ic_baseline_place_24.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/drawable/ic_baseline_place_24.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/layout_activity_login.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/layout_activity_change_credentials.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/activity_change_credentials.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/layout_event_cell.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/event_cell.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/drawable_ic_baseline_person_24.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/drawable/ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/drawable_baseline_notifications_24.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/drawable/baseline_notifications_24.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/layout_fragment_settings.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/layout_place_cell.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/place_cell.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/layout_activity_view_list.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/activity_view_list.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/layout_fragment_lists.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/fragment_lists.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/drawable_ic_baseline_attachment_24.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/drawable/ic_baseline_attachment_24.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/layout_activity_add_place.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/activity_add_place.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/layout_activity_view_event.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/activity_view_event.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/layout_activity_add_event.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/activity_add_event.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/layout_activity_view_place.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/activity_view_place.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/drawable_ic_baseline_notifications_24.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/drawable/ic_baseline_notifications_24.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/layout_fragment_places.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/fragment_places.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/layout_fragment_calendar.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/layout/fragment_calendar.xml"
+    },
+    {
+        "merged": "com.gk.koumpyol.dailyplanner.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.gk.koumpyol.dailyplanner.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
